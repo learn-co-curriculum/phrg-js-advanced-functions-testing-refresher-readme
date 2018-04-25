@@ -88,3 +88,4 @@ kahuna. Think of end-to-end testing like the things we'd do in the browser ourse
 this button, the card should appear in this location_. This kind of testing takes a while to set up
 and is done using specialized tools. These tests are also the _slowest_ of them all to run since
 they have to do so much work. Still much, much faster than testing things manually, though!
+<p data-visibility='hidden'>PHRG Why Test?</p>
