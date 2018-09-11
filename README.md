@@ -89,3 +89,6 @@ this button, the card should appear in this location_. This kind of testing take
 and is done using specialized tools. These tests are also the _slowest_ of them all to run since
 they have to do so much work. Still much, much faster than testing things manually, though!
 <p data-visibility='hidden'>PHRG Why Test?</p>
+
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-advanced-functions-testing-refresher-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-advanced-functions-testing-refresher-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
